@@ -25,3 +25,8 @@ Le kernel produit est découpé suivant cette organisation :
 
 Lien vers le kernel : https://www.kaggle.com/nicolasdemarque/eda-nn-1
 
+## Soumission Kaggle
+
+V7 : 0.671
+V4 : 0.671 
+V0 : 0
